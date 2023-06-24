@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+  border: 3px solid black;
+  padding: 10px;
+}
+
+.hone {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 8px;
+  /* border-bottom: 1px solid #ddd; */
+}
+
+.daily-value {
+  font-size: 12px;
+  color: #777;
+  margin-top: 10px;
+}
+
+.right {
+  text-align: right;
+  color: blue;
+}
